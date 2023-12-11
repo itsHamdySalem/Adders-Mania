@@ -12,7 +12,7 @@
    - Execute the following command to run post synthesis simulation:
 
    ```bash
-   vsim -c -do src/CarryLookAheadAdder/postSynthesis.tcl
+   vsim -c -do src/CarryLookAheadAdder/postSynthesisScript.tcl
 
 ## Compile and Run the Carry Select Adder
 
@@ -26,4 +26,4 @@
    - Execute the following command to run post synthesis simulation:
 
    ```bash
-   vsim -c -do src/CarrySelectAdder/postSynthesis.tcl
+   vsim -c -do src/CarrySelectAdder/postSynthesisScript.tcl
