@@ -1,8 +1,8 @@
 module CarryLookAheadAdder (
-    input signed [31:0] A,
-    input signed [31:0] B,
+    input [31:0] A,
+    input [31:0] B,
     input Cin,
-    output signed [31:0] F,
+    output [31:0] F,
     output Cout
 );
   wire [31:0] P, G;
@@ -19,7 +19,7 @@ module CarryLookAheadAdder (
     end
   endgenerate
 
+  assign F = P ^ C[31:0];
   assign Cout = C[32];
-  assign F = A + B + Cin;
 
 endmodule
