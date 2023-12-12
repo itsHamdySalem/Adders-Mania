@@ -1,0 +1,119 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/study/Computer Architecture/project/project
+vCarryBypassAdder
+Z0 !s110 1702398332
+!i10b 1
+!s100 CXI:nbO]c<ZdVTWIzMJ>S2
+I33k_QGHI_GFoGm9nZk?0J0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/study/VLSI/project/Adders-Mania/src/CarryBypassAdder
+w1702398325
+8D:/study/VLSI/project/Adders-Mania/src/CarryBypassAdder/CarryBypassAdder.v
+FD:/study/VLSI/project/Adders-Mania/src/CarryBypassAdder/CarryBypassAdder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1702398332.000000
+!s107 D:/study/VLSI/project/Adders-Mania/src/CarryBypassAdder/CarryBypassAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/study/VLSI/project/Adders-Mania/src/CarryBypassAdder/CarryBypassAdder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@carry@bypass@adder
+vCarryBypassAdder4bit
+R0
+!i10b 1
+!s100 ;iMchU[9gQAP<zDo8LBGZ2
+I:DZEz0j3g0Gl6kQ10ci683
+R1
+R2
+w1702396913
+8D:/study/VLSI/project/Adders-Mania/src/CarryBypassAdder/CarryBypassAdder4bit.v
+FD:/study/VLSI/project/Adders-Mania/src/CarryBypassAdder/CarryBypassAdder4bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/study/VLSI/project/Adders-Mania/src/CarryBypassAdder/CarryBypassAdder4bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/study/VLSI/project/Adders-Mania/src/CarryBypassAdder/CarryBypassAdder4bit.v|
+!i113 1
+R5
+R6
+n@carry@bypass@adder4bit
+vfull_adder
+!s110 1702395148
+!i10b 1
+!s100 bbzJEQ_7?P^B[o=nGboN[2
+IXWXiHLmOImA8gGOLgAc_80
+R1
+R2
+w1702395141
+Z7 8D:/study/VLSI/project/Adders-Mania/src/CarryBypassAdder/RippleCarryAdder4bit.v
+Z8 FD:/study/VLSI/project/Adders-Mania/src/CarryBypassAdder/RippleCarryAdder4bit.v
+L0 25
+R3
+r1
+!s85 0
+31
+!s108 1702395148.000000
+Z9 !s107 D:/study/VLSI/project/Adders-Mania/src/CarryBypassAdder/RippleCarryAdder4bit.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|D:/study/VLSI/project/Adders-Mania/src/CarryBypassAdder/RippleCarryAdder4bit.v|
+!i113 1
+R5
+R6
+vRippleCarryAdder4bit
+R0
+!i10b 1
+!s100 <mcVLF=58M0CnfXT_oLHe3
+IB?DiUB8j9T@hzD2Z<j2jd3
+R1
+R2
+w1702395694
+R7
+R8
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R9
+R10
+!i113 1
+R5
+R6
+n@ripple@carry@adder4bit
+vtb_CarryBypassAdder
+R0
+!i10b 1
+!s100 bA@EPI`_an9YQ4`I1WG_z1
+INaTNCRc:=B5@QAZARz?Sa0
+R1
+R2
+w1702398229
+8D:/study/VLSI/project/Adders-Mania/src/CarryBypassAdder/tb_CarryBypassAdder.v
+FD:/study/VLSI/project/Adders-Mania/src/CarryBypassAdder/tb_CarryBypassAdder.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/study/VLSI/project/Adders-Mania/src/CarryBypassAdder/tb_CarryBypassAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/study/VLSI/project/Adders-Mania/src/CarryBypassAdder/tb_CarryBypassAdder.v|
+!i113 1
+R5
+R6
+ntb_@carry@bypass@adder
